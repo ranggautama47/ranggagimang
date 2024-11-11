@@ -1,0 +1,64 @@
+#text{
+    color: blue;
+}
+.text-2{
+    color: yellow;
+}
+/* .button-1{
+    background-color: aqua;
+} */
+
+
+ #navcuy{
+    position: sticky;
+    top: 0;
+ }
+ .button-0:hover{
+    background-color: rgb(21, 192, 64);
+    transition: 0,5s;
+ }
+ .button-1:hover{
+    background-color: rgb(21, 192, 64);
+    transition: 0,5s;
+ }
+ .button-2:hover{
+    background-color: rgb(21, 192, 64);
+    transition: 0,5s;
+ }
+
+.contac{
+    background-color: rebeccapurple;
+}
+
+
+.animated-text span {
+    display: inline-block;
+    animation: bounce 1s infinite;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+/* Warna dan Delay Animasi Per Huruf */
+.color1 { color: #FF5733; animation-delay: 1s; }
+.color2 { color: #FF8D1A; animation-delay: 0.7s; }
+.color3 { color: #FFC300; animation-delay: 0.9s; }
+.color4 { color: #DAF7A6; animation-delay: 0.3s; }
+.color5 { color: #33FF57; animation-delay: 0.4s; }
+.color6 { color: #33FFBD; animation-delay: 0.5s; }
+.color7 { color: #33FFF3; animation-delay: 0.6s; }
+.color8 { color: #33A1FF; animation-delay: 0.7s; }
+.color9 { color: #3359FF; animation-delay: 0.8s; }
+.color10 { color: #6A33FF; animation-delay: 0.9s; }
+.color11 { color: #A133FF; animation-delay: 1s; }
+.color12 { color: #FF33A5; animation-delay: 1.1s; }
+.color13 { color: #FF338F; animation-delay: 1.2s; }
+.color14 { color: #FF3369; animation-delay: 1.3s; }
+.color15 { color: #FF3333; animation-delay: 1.4s; }
+.color16 { color: #8D33FF; animation-delay: 1.5s; }
+.color17 { color: #3337FF; animation-delay: 1.6s; }
+
